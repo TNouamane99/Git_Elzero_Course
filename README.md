@@ -2,4 +2,4 @@
 Start learning Git &amp; Github
 
 ## Project Notes
-* Respect them *
+*Respect them*
